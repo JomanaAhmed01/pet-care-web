@@ -12,6 +12,7 @@ function HomePageCompound() {
 
 export const Wrapper = styled.div`
   background-color: #ACD5DE;
+  border: 1px solid transparent;
 `;
 
 export default HomePageCompound;
